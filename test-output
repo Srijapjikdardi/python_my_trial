@@ -1,0 +1,6 @@
+// Test
+digraph {
+	A [label="Local AI"]
+	B [label=Flowchart]
+	A -> B
+}
