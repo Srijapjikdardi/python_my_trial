@@ -1,1 +1,1 @@
-# python_my_trial
+python-mini-projects
